@@ -1,0 +1,34 @@
+h1, h2, h3, h4, p{
+	color: white;
+}
+
+.content-background{
+	background: #4b545c;
+	height: 90vh;
+	overflow: scroll;
+}
+
+.content-layout{
+	padding-top: 10vh;
+}
+
+.chart-layout{
+	margin: 3rem 0;
+}
+
+.footer {
+  background: #343a40;
+  color: white;
+  text-align: center;
+  padding: 1rem 0 0.25rem 0;	
+}
+
+.footer-link {
+  color: #17a2b8;
+  transition: 0.3s;
+}
+
+.footer-link:hover {
+  color: #148ea1;
+  text-decoration: none;
+}
