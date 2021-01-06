@@ -4,7 +4,7 @@ The goal of LampLytics is to automate the process of creating and maintaining a 
 
 LampLytics is a prototype of a personal desk assistant system that utilizes data from multiple sensors in order to automatically turn on a lamp and fan with just the right amount of power in order to create a comfortable desk environment. Usage rates and power consumption for both the light and fan will be recorded and sent up to be stored on the cloud via a WiFi connection. These analytics are able to be viewed on an end user interface for the user to monitor. 
 
-[Live Demo](https://drive.google.com/file/d/1X_JRxtJsQUP8hYZvLlBH1mXEuAhD-nTW/view?usp=sharing)
+[Live Demo](https://youtu.be/SsZZQ1udUtw)
 
 ### Motivation
 
